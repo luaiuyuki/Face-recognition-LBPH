@@ -32,9 +32,9 @@
 📂 Project Structure
 ├── dataset/                # Stored face images
 ├── trainer/                # Trained model files
-├── face_dataset.py         # Face data collection script
-├── face_training.py        # Model training script
-├── face_recognition.py     # Real-time face recognition
+├── FaceDetect.py           # Face data collection script
+├── Train.py                # Model training script
+├── Recognize.py            # Real-time face recognition
 └── README.md
 
 ## ⚙️ Environment Setup
@@ -51,10 +51,11 @@
 
 ## ▶ How to Run the Project
 - Step 1: Collect Face Data
->                   python face_dataset.py
+>                   python FaceDetect.py
 
 - Step 2: Train the Model
->                   python face_training.py
+>                   python Train.py
 
 - Step 3: Run Real-time Face Recognition
->                   python face_recognition.py
+>                   python Recognize.py
+
