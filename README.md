@@ -30,7 +30,7 @@
 + Build a complete face recognition pipeline
 ## 📂 Project Structure
 
-```text```
+```text
 project/
 ├── dataset/             # Stored face images
 ├── trainer/             # Trained model files
@@ -38,6 +38,7 @@ project/
 ├── Train.py             # Model training script
 ├── Recognize.py         # Real-time face recognition
 └── README.md
+```
 
 ## ⚙️ Environment Setup
 ### ☕ Python Environment
