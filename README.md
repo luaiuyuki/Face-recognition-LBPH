@@ -28,13 +28,15 @@
 + Display recognized person name and confidence level
 
 + Build a complete face recognition pipeline
+## 📂 Project Structure
 
-📂 Project Structure
-├── dataset/                # Stored face images
-├── trainer/                # Trained model files
-├── FaceDetect.py           # Face data collection script
-├── Train.py                # Model training script
-├── Recognize.py            # Real-time face recognition
+```text
+project/
+├── dataset/             # Stored face images
+├── trainer/             # Trained model files
+├── FaceDetect.py        # Face data collection script
+├── Train.py             # Model training script
+├── Recognize.py         # Real-time face recognition
 └── README.md
 
 ## ⚙️ Environment Setup
