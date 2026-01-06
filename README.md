@@ -30,7 +30,7 @@
 + Build a complete face recognition pipeline
 ## 📂 Project Structure
 
-```text
+```text```
 project/
 ├── dataset/             # Stored face images
 ├── trainer/             # Trained model files
